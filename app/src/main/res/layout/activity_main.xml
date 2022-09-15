@@ -49,11 +49,4 @@
 
     </com.google.android.material.chip.ChipGroup>
 
-    <com.google.android.material.chip.Chip
-        android:id="@+id/chip4"
-        android:layout_width="106dp"
-        android:layout_height="53dp"
-        tools:layout_editor_absoluteX="152dp"
-        tools:layout_editor_absoluteY="301dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
