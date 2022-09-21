@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_texto1">24sp</dimen
+    <dimen name="tam_texto2">150sp</dimen
+    <dimen name="margen_externo">8dp</dimen
+</resources>

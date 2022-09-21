@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador 22_23</string>
+    <string name="cont">CONT</string>
+    <string name="toast">TOAST</string>
+    <string name="reset">RESET</string>
+    <string name="_0">0</string>
+</resources>
